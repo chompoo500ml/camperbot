@@ -1,7 +1,7 @@
 {
-  "githubId": "GITHUB_USER_ID",
+  "githubId": "bot500ml",
   "user": {
-    "botname": "GITHUB_USER_ID",
+    "botname": "bot500ml",
     "appHost": "http://localhost:7000",
     "apiServer": "www.freecodecamp.org",
     "appRedirectUrl": "http://localhost:7891/login/callback"
